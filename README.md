@@ -79,16 +79,6 @@ Start the frontend
 
 4. We faced challenges with CSS tags and class also, because when we merged CSS files for any page in which 2-3 members have worked, sometimes tags were colliding because of the same names of tags and classes.
 
-## Team
-
-- Akash Patel
-- Md Ehtesham
-- Mohit Soni
-- Manoranjan Sethi
-- Rishab Kumar
 
 
-## Authors
 
-- [@Manoranjan Sethi](https://github.com/Manoranjan-Sethi)
-# MMT_
